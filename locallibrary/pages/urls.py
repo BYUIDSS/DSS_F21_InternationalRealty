@@ -12,7 +12,3 @@ urlpatterns = [
     #     content_type='text/css')
     # )
 ]
-
-# urlpatterns = [
-#     path('', HomePageView.as_view(), name='home'),
-# ]
