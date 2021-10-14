@@ -7,8 +7,8 @@ from .views import HomePageView
 
 urlpatterns = [
     path('', HomePageView.as_view(), name='home'),
-    # path('css/small.css', TemplateView.as_view(
-    #     template_name='small.css',
-    #     content_type='text/css')
-    # )
+    path('css/style.css', TemplateView.as_view(
+        template_name='style.css',
+        content_type='text/css')
+    )
 ]
