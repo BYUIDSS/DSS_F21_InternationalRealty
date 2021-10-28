@@ -47,12 +47,12 @@ The most direct examples are the sites that use the Sotheby’s International Re
 For example, use 1975 Webster Street, Palo Alto, CA, which has a LISTING ID of **LMKHZM**
 
 _Shortcut URLs:_  
-Sotheby's International Realty: <https://www.sothebysrealty.com/id/LMKHZM> - yes
-Golden Gate Sotheby's International Realty: <https://www.goldengatesir.com/id/LMKHZM> - yes
-James Edition: <https://www.jamesedition.com/ref/LMKHZM> - no
-Juwai: <https://www.juwai.com/find-listing-by-source?source=Sothebys&source_id=LMKHZM> - no
-Real-Buzz: <https://real-buzz.com/RealEstate-detail-SIR/LMKHZM> - no
-Country Life: <http://countrylife.co.uk/international-property/LMKHZM> [currently having issues on Mac Chrome and Safari] - no
+Sotheby's International Realty: <https://www.sothebysrealty.com/id/LMKHZM> - yes  
+Golden Gate Sotheby's International Realty: <https://www.goldengatesir.com/id/LMKHZM> - yes  
+James Edition: <https://www.jamesedition.com/ref/LMKHZM> - no  
+Juwai: <https://www.juwai.com/find-listing-by-source?source=Sothebys&source_id=LMKHZM> - no  
+Real-Buzz: <https://real-buzz.com/RealEstate-detail-SIR/LMKHZM> - no  
+Country Life: <http://countrylife.co.uk/international-property/LMKHZM> [currently having issues on Mac Chrome and Safari] - no  
 
 ### James Edition Platform
 Note that the James Edition shortcut link above forwards to this URL:
