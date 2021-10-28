@@ -47,7 +47,7 @@ The most direct examples are the sites that use the Sotheby’s International Re
 For example, use 1975 Webster Street, Palo Alto, CA, which has a LISTING ID of **LMKHZM**
 
 _Shortcut URLs:_  
-Sotheby's International Realty: <https://www.sothebysrealty.com/id/LMKHZM>  
+Sotheby's International Realty: <https://www.sothebysrealty.com/id/LMKHZM>
 Golden Gate Sotheby's International Realty: <https://www.goldengatesir.com/id/LMKHZM>  
 James Edition: <https://www.jamesedition.com/ref/LMKHZM>  
 Juwai: <https://www.juwai.com/find-listing-by-source?source=Sothebys&source_id=LMKHZM>  
