@@ -1,4 +1,7 @@
 from django import forms
 
-class FormName(forms.Form):
-    url = forms.URLField()
+class URLForm(forms.Form):
+    url = forms.CharField(max_length=256)
+
+    def get_form_data(self):
+        print(self.cleaned_data)
