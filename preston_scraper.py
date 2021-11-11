@@ -21,7 +21,7 @@ def scrape_homes(terms):
     elem.clear()
     elem.send_keys(terms)
     # It wants to load up possible addresses, so wait until it does that.
-    time.sleep(1)
+    time.sleep(.5)
     elem.send_keys(Keys.ENTER)
     # Wait for the new page to load
     time.sleep(1)
