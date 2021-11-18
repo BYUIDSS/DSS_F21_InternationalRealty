@@ -27,10 +27,10 @@ def scrape_homes(terms):
     time.sleep(1)
     # Should have a page with the correct listing.
     now = datetime.now()
-    filename = f"homes-dot-com_on_{now.year}_{now.month}_{now.day}.png"
+    filename = f"homes-dot-com_{now.year}-{now.month}-{now.day}.png"
     driver.save_screenshot(filename)
     driver.quit()
-    return filename
+    return [filename]
 
 known_sites = ["Homes.com"]
 scrape_functions = [scrape_homes]
