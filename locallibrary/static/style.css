@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    align-items: center;
+    background-color: #002349;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-family: FreightBig,Serif,Arial,Sans-Serif;
+}
+
+h2 {
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+h4 {
+    font-family: BentonSans,Arial,Sans-Serif;
+    font-size: 10px;
+    font-weight: 300;
+    margin-top: -18px;
+}

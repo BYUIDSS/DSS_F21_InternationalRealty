@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        {% load static %}
+        <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
     </head>
     <body>
-        <h1>Retrieve Screenshot</h1>
+        <h1>Sotheby's</h1>
+        <h4>INTERNATIONAL REALTY</h4>
+        <h2>Image Web Scraper</h2>
         <form method='POST'>{% csrf_token %}
             {{form}}
             <input type='submit' value='Submit'>
