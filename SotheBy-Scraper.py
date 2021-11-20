@@ -29,5 +29,6 @@ def Scrape_SotheBys_fromID(ID) -> list():
     driver.close()
     return ImageList
 
-results = Scrape_SotheBys_fromID('LMKHZM') # For test scrape.
-print(results)
+# Testing purposes
+# results = Scrape_SotheBys_fromID('LMKHZM')
+# print(results)
