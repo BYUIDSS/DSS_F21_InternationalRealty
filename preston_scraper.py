@@ -30,7 +30,7 @@ def scrape_homes(terms):
     filename = f"homes-dot-com_{now.year}-{now.month}-{now.day}.png"
     driver.save_screenshot(filename)
     driver.quit()
-    return [filename]
+    return {'filename': filename, 'date': f"{now.month}/{now.day}/{now.year}", 'property': terms}
 
 known_sites = ["Homes.com"]
 scrape_functions = [scrape_homes]
